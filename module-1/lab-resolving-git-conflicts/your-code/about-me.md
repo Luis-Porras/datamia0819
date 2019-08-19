@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Who am I
 
     * Where are you from?
@@ -30,6 +30,9 @@
     
     * What is your career goal?
     To work in an environment that stimulates growth. 
-=======
-change 1
->>>>>>> a42f8359a7bffad4f64ccc8958651e251157cf38
+
+
+
+
+
+
